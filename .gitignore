@@ -1,0 +1,13 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Oo]bj/
+[Mm]emoryCaptures/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.opendb
+*.VC.db
